@@ -5889,13 +5889,7 @@ button.close {
   border-width: 5px 5px 0;
   border-top-color: #000;
 }
-.verticalhorizontal {
-    display: table-cell;
-    height: 300px;
-    text-align: center;
-    width: 300px;
-    vertical-align: middle;
-}
+
 .tooltip.right .tooltip-arrow {
   top: 50%;
   left: 0;
